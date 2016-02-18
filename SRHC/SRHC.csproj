@@ -91,6 +91,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Datas\Category.cs" />
+    <Compile Include="Datas\Customer.cs" />
+    <Compile Include="Datas\Product.cs" />
+    <Compile Include="Datas\Purchase.cs" />
+    <Compile Include="Datas\Sales.cs" />
+    <Compile Include="Datas\Supplier.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
